@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://granada.desarrolladoresdeapps.com/sitemap.xml
